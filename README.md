@@ -1,1 +1,1 @@
-# mca-projecty
+# mca-project
